@@ -1,0 +1,22 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Alignment",
+		"BracketHighlighter",
+		"HTMLBeautify",
+		"JsFormat",
+		"Nodejs",
+		"NodeRequirer",
+		"Package Control",
+		"Predawn",
+		"Sass",
+		"SublimeLinter",
+		"SublimeLinter-csslint",
+		"SublimeLinter-gjslint",
+		"SublimeLinter-jshint"
+	]
+}

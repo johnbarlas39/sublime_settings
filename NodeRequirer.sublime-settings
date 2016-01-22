@@ -1,0 +1,5 @@
+{
+    "alias": {
+        "*/server/models/user.model": "User"
+    }
+}
