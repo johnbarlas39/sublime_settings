@@ -74,6 +74,23 @@
 	"match_tags": true,
 	"open_files_in_new_window": false,
 	"overlay_scroll_bars": "enabled",
+
+	/* ==> Predawn */
+	"predawn_findreplace_small": true,
+	"predawn_quick_panel_small": false,
+	"predawn_sidebar_arrows": true,
+	"predawn_sidebar_large": false,
+	"predawn_sidebar_medium": true,
+	"predawn_sidebar_narrow": false,
+	"predawn_sidebar_small": false,
+	"predawn_sidebar_xlarge": false,
+	"predawn_sidebar_xsmall": false,
+	"predawn_tabs_active_underline": true,
+	"predawn_tabs_large": false,
+	"predawn_tabs_medium": false,
+	"predawn_tabs_small": false,
+	/* Predawn <== */
+
 	"preview_on_click": false,
 	"scroll_past_end": true,
 	"show_full_path": false,
