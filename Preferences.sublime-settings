@@ -76,7 +76,7 @@
 	"overlay_scroll_bars": "enabled",
 
 	/* ==> Predawn */
-	"predawn_findreplace_small": true,
+	"predawn_findreplace_small": false,
 	"predawn_quick_panel_small": false,
 	"predawn_sidebar_arrows": true,
 	"predawn_sidebar_large": false,
